@@ -1,0 +1,16 @@
+
+#lowerPane{
+     -fx-background-color: #87A8AF;
+     -fx-margin: 10px 10px;
+}
+
+
+
+#SearchButton{
+     -fx-border: none;
+
+}
+#cityInput{
+    -fx-border: none;
+    -fx-padding: 10px;
+}
