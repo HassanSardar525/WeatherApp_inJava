@@ -1,2 +1,3 @@
 # WeatherApp_inJava
-A simple weather app using java and java fx
+Developed a desktop application that fetches real-time weather data using external APIs and practiced parsing and
+displaying JSON data effectively.
