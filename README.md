@@ -3,5 +3,4 @@ Developed a desktop application that fetches real-time weather data using extern
 displaying JSON data effectively.
 
 
-
-![Image](https://github.com/user-attachments/assets/b6c48082-2b4d-420d-bdb5-b94b0ac1589d)
+![Image](https://github.com/user-attachments/assets/5f053642-a6bb-4733-a14c-b71876fef334)
